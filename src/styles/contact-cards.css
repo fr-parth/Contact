@@ -1,0 +1,77 @@
+.profile-picture {
+    border-radius: 999px;
+    width: 40px;
+    height: 40px;
+}
+
+.card {
+    display: flex;
+    margin: auto;
+    width: 600px;
+    height: 120px;
+    align-items: center;
+}
+
+.name {
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: aqua;
+}
+
+.email {
+    font-size: 16px;
+    margin-left: 20px;
+    color: darkgrey;
+}
+
+.status {
+    margin-left: 20px;
+    color: aqua;
+}
+
+
+.button-active {
+    margin-left: 20px;
+    height: 35px;
+    width: 70px;
+    text-align: center;
+    background-color: whitesmoke;
+    border-color: azure;
+    border-radius: 10px;
+    margin-top: 5px;
+    color: green;
+    background-color: lightgreen;
+}
+
+.button-inactive {
+    margin-left: 20px;
+    height: 35px;
+    width: 70px;
+    text-align: center;
+    background-color: whitesmoke;
+    border-color: azure;
+    border-radius: 10px;
+    margin-top: 5px;
+    color: grey;
+    background-color: lightgray;
+}
+
+.button-removed {
+    margin-left: 20px;
+    height: 35px;
+    width: 70px;
+    text-align: center;
+    background-color: whitesmoke;
+    border-color: azure;
+    border-radius: 10px;
+    margin-top: 5px;
+    color: yellow;
+    background-color: lightyellow;
+}
+
+img {
+    margin-left: 20px;
+    width: 20px;
+    height: 20px;
+}

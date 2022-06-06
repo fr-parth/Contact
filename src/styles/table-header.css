@@ -1,0 +1,24 @@
+.table-header {
+    display: flex;
+    margin: auto;
+    width: 600px;
+    height: 60px;
+    background-color: antiquewhite;
+    align-items: center;
+}
+
+.table-header-name {
+    margin-left: 50px;
+}
+
+.table-header-email {
+    margin-left: 140px;
+}
+
+.table-header-status {
+    margin-left: 140px;
+}
+
+.table-header-action {
+    margin-left: 40px;
+}
