@@ -11,8 +11,6 @@ function App() {
   const [apiPageNumber, setApiPageNumber] = useState<number>(1)
 
   const scroller = () => {
-    console.log(window.scrollY)
-    console.log(window.innerHeight)
     if (window.scrollY + window.innerHeight >=
       document.documentElement.scrollHeight) {
       setApiPageNumber(apiPageNumber => apiPageNumber + 1)

@@ -1,0 +1,20 @@
+.modal {
+    background: rgba(138, 135, 135, 0.6);
+}
+
+.modal-container {
+    position: fixed;
+    width: 60%;
+    background: #bbb8b8;
+    left: 25%;
+    top: 50%;
+}
+
+d-block {
+    display: block !important;
+}
+
+
+d-none {
+    display: none !important;
+}
